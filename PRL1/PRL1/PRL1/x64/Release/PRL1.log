@@ -1,0 +1,23 @@
+﻿  serial_pi.cpp
+serial_pi.cpp(14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+serial_pi.cpp(34): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+serial_pi.cpp(38): warning C4101: 'i': unreferenced local variable
+serial_pi.cpp(36): warning C4101: 'x': unreferenced local variable
+serial_pi.cpp(55): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+serial_pi.cpp(59): warning C4101: 'i': unreferenced local variable
+serial_pi.cpp(57): warning C4101: 'x': unreferenced local variable
+serial_pi.cpp(77): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+serial_pi.cpp(81): warning C4101: 'i': unreferenced local variable
+serial_pi.cpp(79): warning C4101: 'x': unreferenced local variable
+serial_pi.cpp(98): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+serial_pi.cpp(103): warning C4101: 'i': unreferenced local variable
+serial_pi.cpp(101): warning C4101: 'x': unreferenced local variable
+serial_pi.cpp(137): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+serial_pi.cpp(140): warning C4101: 'i': unreferenced local variable
+serial_pi.cpp(167): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+serial_pi.cpp(174): warning C4101: 'i': unreferenced local variable
+  Generating code
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PRL1.vcxproj -> E:\GIT_repos\PRL\College-PR\PRL1\PRL1\x64\Release\PRL1.exe
+  PRL1.vcxproj -> E:\GIT_repos\PRL\College-PR\PRL1\PRL1\x64\Release\PRL1.pdb (Full PDB)

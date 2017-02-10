@@ -1,0 +1,23 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  serial_pi.cpp
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(34): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(38): warning C4101: 'i': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(36): warning C4101: 'x': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(55): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(59): warning C4101: 'i': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(57): warning C4101: 'x': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(77): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(81): warning C4101: 'i': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(79): warning C4101: 'x': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(98): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(103): warning C4101: 'i': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(101): warning C4101: 'x': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(137): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(140): warning C4101: 'i': unreferenced local variable
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(167): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\git_repos\prl\college-pr\prl1\prl1\prl1\serial_pi.cpp(174): warning C4101: 'i': unreferenced local variable
+  measures.cpp
+  Generating Code...
+  PRL1.vcxproj -> E:\GIT_repos\PRL\College-PR\PRL1\PRL1\Debug\PRL1.exe
+  PRL1.vcxproj -> E:\GIT_repos\PRL\College-PR\PRL1\PRL1\Debug\PRL1.pdb (Partial PDB)

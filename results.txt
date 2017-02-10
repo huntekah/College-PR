@@ -1,0 +1,27 @@
+function: find_serial_pi
+Wartosc liczby PI wynosi  3.141592653590
+Czas przetwarzania wynosi 8.216000 sekund
+
+function: find_parallel_pi_data_races
+Wartosc liczby PI wynosi  0.634856852608
+Czas przetwarzania wynosi 14.233000 sekund
+
+function: find_parallel_pi_atomic
+Wartosc liczby PI wynosi  3.141592653590
+Czas przetwarzania wynosi 13.408000 sekund
+
+function: find_parallel_pi_reduction
+Wartosc liczby PI wynosi  3.141592653590
+Czas przetwarzania wynosi 1.292000 sekund
+
+function: find_parallel_pi_arrays
+Wartosc liczby PI wynosi  3.141592653590
+Czas przetwarzania wynosi 10.976000 sekund
+
+function: find_parallel_pi_local_sum
+Wartosc liczby PI wynosi  3.141592653590
+Czas przetwarzania wynosi 1.218000 sekund
+
+function: find_parallel_pi_volatile
+Wartosc liczby PI wynosi  3.141592653590
+Czas przetwarzania wynosi 8.313000 sekund
