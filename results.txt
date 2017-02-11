@@ -1,27 +1,38 @@
 function: find_serial_pi
 Wartosc liczby PI wynosi  3.141592653590
-Czas przetwarzania wynosi 8.216000 sekund
+Czas przetwarzania wynosi 8.203000 sekund
 
 function: find_parallel_pi_data_races
-Wartosc liczby PI wynosi  0.634856852608
-Czas przetwarzania wynosi 14.233000 sekund
+Wartosc liczby PI wynosi  0.606867059634
+Czas przetwarzania wynosi 13.866000 sekund
 
 function: find_parallel_pi_atomic
 Wartosc liczby PI wynosi  3.141592653590
-Czas przetwarzania wynosi 13.408000 sekund
+Czas przetwarzania wynosi 159.428000 sekund
 
 function: find_parallel_pi_reduction
 Wartosc liczby PI wynosi  3.141592653590
-Czas przetwarzania wynosi 1.292000 sekund
+Czas przetwarzania wynosi 1.172000 sekund
 
 function: find_parallel_pi_arrays
 Wartosc liczby PI wynosi  3.141592653590
-Czas przetwarzania wynosi 10.976000 sekund
+Czas przetwarzania wynosi 8.642000 sekund
 
 function: find_parallel_pi_local_sum
 Wartosc liczby PI wynosi  3.141592653590
-Czas przetwarzania wynosi 1.218000 sekund
+Czas przetwarzania wynosi 1.156000 sekund
 
 function: find_parallel_pi_volatile
 Wartosc liczby PI wynosi  3.141592653590
-Czas przetwarzania wynosi 8.313000 sekund
+Czas przetwarzania wynosi 7.618000 sekund
+
+
+
+program		czas		przyspieszenie
+serial pi	8.203		1
+data races	13.866		0.5915909419
+atomic		159.428		0.0514526934
+reduction	1.172		6.9991467577
+arrays		8.642		0.9492015737
+local sum	1.156		7.0960207612
+volatile	7.618		1.0767918089

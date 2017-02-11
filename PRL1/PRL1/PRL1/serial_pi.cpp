@@ -52,7 +52,7 @@ double find_parallel_pi_data_races() {
 double find_parallel_pi_atomic() {
 	printf("function: %s\n", __FUNCTION__);
 
-	int steps = num_steps/10;
+	int steps = num_steps;
 
 	double x, pi, sum = 0.0;
 	double step = 0.0;
@@ -189,9 +189,7 @@ double find_parallel_pi_volatile() {
 			x = (i + .5)*step;
 			sums[id] += 4.0 / (1. + x*x);
 		}
-		// zapisz do pamieci sums[i]
-/*#pragma omp atomic
-		sum += sums[id];*/
+
 
 	}
 	sum = sums[0] + sums[1] + sums[2] + sums[3];
